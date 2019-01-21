@@ -118,5 +118,11 @@
         "repos": [
             "https://github.com/zcash/zcash"
         ]
+    },
+    {
+        "currency": "BTS",
+        "repos": [
+            "https://github.com/bitshares/bitshares-core"
+        ]
     }
 ]
