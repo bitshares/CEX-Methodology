@@ -122,7 +122,20 @@
     {
         "currency": "BTS",
         "repos": [
-            "https://github.com/bitshares/bitshares-core"
+            "https://github.com/bitshares/bitshares-core",
+            "https://github.com/bitshares/bitshares-fc",
+            "https://github.com/bitshares/bitshares-ui",
+            "https://github.com/bitshares/python-bitshares",
+            "https://github.com/bitshares/bsips",
+            "https://github.com/bitshares/uptick",
+            "https://github.com/bitshares/beet",
+            "https://github.com/bitshares/beet-js",
+            "https://github.com/bitshares-foundation/bitshares.foundation",
+            "https://github.com/bitshares/bitshares-community-ui",
+            "https://github.com/bitshares/vuex-bitshares",
+            "https://github.com/bitshares/bitsharesjs",
+            "https://github.com/bitshares/bitsharesjs-ws",
+            "https://github.com/bitshares/how.bitshares.works",
         ]
     }
 ]
